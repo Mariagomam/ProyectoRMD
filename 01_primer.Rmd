@@ -1,6 +1,6 @@
 ---
 title: "01_primer.Rmd"
-subtitle: "Ramas"
+subtitle: "Ramas R"
 author: "María González Martín"
 date: "2026-11-18"
 output: html_document
